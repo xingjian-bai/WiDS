@@ -5,4 +5,9 @@ submission*
 
 /works/Qianwei/*.csv
 
-/.DS_Store
+.DS_Store
+
+/submission
+
+/works/Xingjian/catboost_info/*
+works/Xingjian/catboost_info
