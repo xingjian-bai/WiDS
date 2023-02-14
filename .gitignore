@@ -2,3 +2,14 @@ data/
 .conda/
 .vscode/
 submission*
+
+/works/Qianwei/*.csv
+
+.DS_Store
+/works/.DS_Store
+/works/Qianwei/.DS_Store
+
+/submission
+
+/works/Xingjian/catboost_info/*
+works/Xingjian/catboost_info
